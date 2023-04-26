@@ -1,0 +1,6 @@
+The number 3^4 is = 81
+The number 11^0 is = 1
+The number 2^5 is = 32
+Invalid entry, positive values.
+Invalid entry.
+The number 1^9 is = 1
